@@ -1,0 +1,15 @@
+venv
+datasets
+datasets/*
+development
+*.ipynb
+*.zip
+training/
+
+dev_logs
+runs
+__pycache__
+tmp
+wandb
+merged
+.vscode

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950.74 543.22">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-17, .cls-18 {
+        stroke-linecap: square;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-6, .cls-8, .cls-11, .cls-18 {
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-14 {
+        stroke: #ffc498;
+      }
+
+      .cls-2 {
+        stroke: #898a87;
+        stroke-dasharray: 0 0 8.1 3.5;
+      }
+
+      .cls-2, .cls-5, .cls-7, .cls-10, .cls-12, .cls-13, .cls-14, .cls-15 {
+        stroke-width: 2.2px;
+      }
+
+      .cls-19, .cls-20, .cls-21, .cls-22 {
+        fill: #4f2641;
+      }
+
+      .cls-3, .cls-15 {
+        stroke: #85416e;
+      }
+
+      .cls-4, .cls-10 {
+        stroke: #d62728;
+      }
+
+      .cls-20 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-20, .cls-23, .cls-21, .cls-22, .cls-24 {
+        isolation: isolate;
+      }
+
+      .cls-20, .cls-21, .cls-22 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-20, .cls-22 {
+        font-size: 21.48px;
+      }
+
+      .cls-5, .cls-11 {
+        stroke: #ff906d;
+      }
+
+      .cls-6, .cls-12 {
+        stroke: #cd68ab;
+      }
+
+      .cls-7 {
+        stroke: #1f77b4;
+      }
+
+      .cls-8, .cls-9, .cls-16 {
+        stroke: #4f2641;
+      }
+
+      .cls-9, .cls-16, .cls-17 {
+        stroke-width: 1.2px;
+      }
+
+      .cls-25, .cls-24 {
+        fill: #fff;
+      }
+
+      .cls-21 {
+        font-size: 28.29px;
+      }
+
+      .cls-13, .cls-18 {
+        stroke: #a5bc64;
+      }
+
+      .cls-26 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-27 {
+        letter-spacing: -.13em;
+      }
+
+      .cls-28 {
+        letter-spacing: -.11em;
+      }
+
+      .cls-29 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-30 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-17 {
+        stroke: #e0e1dc;
+      }
+
+      .cls-24 {
+        opacity: .8;
+      }
+    </style>
+  </defs>
+  <g id="_2" data-name=" 2">
+    <g>
+      <rect class="cls-25" y="20.82" width="717.99" height="480.12" rx="34.1" ry="34.1"/>
+      <path id="m23e150d010-6" class="cls-16" d="M115.39,435.34v6.1"/>
+      <g id="line2d_4-2" data-name="line2d 4-2">
+        <path id="m23e150d010-7" class="cls-16" d="M247.08,435.34v6.1"/>
+      </g>
+      <g id="line2d_6-2" data-name="line2d 6-2">
+        <path id="m23e150d010-8" class="cls-16" d="M378.77,435.34v6.1"/>
+      </g>
+      <g id="line2d_8-2" data-name="line2d 8-2">
+        <path id="m23e150d010-9" class="cls-16" d="M510.46,435.34v6.1"/>
+      </g>
+      <path id="m23e150d010-10" class="cls-16" d="M642.23,435.34v6.1"/>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(311.7 515.6) scale(.7 1)"><tspan x="0" y="0">Level of noise</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(374.19 464.25) scale(.7 1)"><tspan x="0" y="0">0</tspan></text>
+      </g>
+      <g id="patch_5-2" data-name="patch 5-2">
+        <path class="cls-24" d="M792.84,543.22h134.88c12.69,0,23.01-14.32,23.01-31.93V59.67c0-17.61-10.32-31.93-23.01-31.93h-134.88c-12.69,0-23.01,14.32-23.01,31.93v451.62c0,17.61,10.32,31.93,23.01,31.93Z"/>
+      </g>
+      <g id="line2d_41-2" data-name="line2d 41-2">
+        <path class="cls-8" d="M726.72,18.29h24.32"/>
+      </g>
+      <g id="line2d_43-2" data-name="line2d 43-2">
+        <path class="cls-11" d="M726.72,101.77h24.32"/>
+      </g>
+      <g id="line2d_46-2" data-name="line2d 46-2">
+        <path class="cls-18" d="M726.72,176.91h24.32"/>
+      </g>
+      <g id="line2d_47-2" data-name="line2d 47-2">
+        <path class="cls-4" d="M726.72,225.79h24.32"/>
+      </g>
+      <g id="line2d_48-2" data-name="line2d 48-2">
+        <path class="cls-3" d="M726.72,270.17h24.32"/>
+      </g>
+      <g id="line2d_49-2" data-name="line2d 49-2">
+        <path class="cls-1" d="M726.72,348.99h24.32"/>
+      </g>
+      <g id="line2d_53-2" data-name="line2d 53-2">
+        <path class="cls-6" d="M726.72,464.64h24.32"/>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(761.19 24.27) scale(.7 1)"><tspan x="0" y="0">White blood cell</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(761.19 54.78) scale(.7 1)"><tspan x="0" y="0">subtypes</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(761.19 91.2) scale(.7 1)"><tspan x="0" y="0">Inflammation</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(761.19 120.48) scale(.7 1)"><tspan x="0" y="0">markers (CR</tspan><tspan class="cls-27" x="168.22" y="0">P</tspan><tspan x="183.45" y="0">,</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(761.19 147.31) scale(.7 1)"><tspan x="0" y="0">F-CAL)</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(761.19 235.69) scale(.7 1)"><tspan x="0" y="0">Hemoglobin</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(761.19 188.15) scale(.7 1)"><tspan x="0" y="0">Platelets</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(761.19 281.53) scale(.7 1)"><tspan x="0" y="0">Iron</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(761.19 327.9) scale(.7 1)"><tspan class="cls-29" x="0" y="0">V</tspan><tspan x="18.36" y="0">itamin and folate</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(761.19 355.72) scale(.7 1)"><tspan x="0" y="0">(Folate, </tspan><tspan class="cls-29" x="108.43" y="0">V</tspan><tspan x="126.79" y="0">itamin</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(761.19 383.66) scale(.7 1)"><tspan x="0" y="0">B12, </tspan><tspan class="cls-29" x="67.61" y="0">V</tspan><tspan x="85.96" y="0">itamin D2</tspan></text>
+      </g>
+      <g>
+        <path class="cls-19" d="M758.62,403.05v-2.93h10.52v2.93h-10.52ZM762.72,407.99v-12.66h2.44v12.66h-2.44Z"/>
+        <path class="cls-19" d="M777.58,410.15h-4.49v-15.97h4.6c1.31,0,2.52.26,3.39.92.99.65,1.64,1.57,2.19,2.75s.77,2.62.77,4.32-.22,3.14-.77,4.32-1.2,2.09-2.19,2.75-2.08.92-3.5.92h0ZM775.5,407.67h1.97c.88,0,1.75-.26,2.3-.65.66-.39,1.09-1.05,1.42-1.83.33-.79.44-1.83.44-3.01s-.11-2.22-.44-3.01-.77-1.44-1.42-1.83-1.31-.65-2.3-.65h-2.08v10.99h.11Z"/>
+        <path class="cls-19" d="M790.63,410.16c-.89,0-1.58-.15-2.28-.59-.69-.44-1.19-1.03-1.58-1.76s-.59-1.61-.59-2.64h2.18c0,.44.1.88.3,1.32s.49.59.79.88.69.29,1.09.29.79,0,1.19-.29c.3-.29.59-.59.79-.88.2-.44.3-.88.3-1.32,0-.59,0-1.03-.3-1.47-.2-.44-.49-.73-.79-1.03s-.79-.29-1.29-.29h-1.09v-2.49h1.09c.4,0,.79,0,1.09-.29s.59-.59.79-.88c.2-.44.3-.88.3-1.32s0-.88-.2-1.32c-.2-.44-.4-.73-.69-.88-.3-.15-.59-.29-.99-.29s-.69,0-.99.29c-.3.15-.59.44-.79.88s-.3.73-.3,1.32h-2.08c0-1.03.2-1.91.59-2.64s.89-1.32,1.48-1.76,1.29-.59,2.08-.59,1.48.29,2.08.73,1.09,1.03,1.39,1.76.49,1.61.49,2.49c0,1.03-.2,1.91-.59,2.49-.4.73-.89,1.17-1.58,1.32h0c.89.29,1.48.73,1.98,1.47s.69,1.76.69,2.78-.2,1.91-.59,2.64-.89,1.47-1.58,1.91-1.48.73-2.28.73l-.1-.59Z"/>
+        <path class="cls-19" d="M802.85,402.77c0,1.98-.25,3.84-.74,5.43-.5,1.59-1.24,3.18-2.23,4.63h-2.48c.37-.53.74-1.19.99-1.85.37-.79.62-1.59.87-2.51s.37-1.85.62-2.78c.12-.93.25-1.85.25-2.78s0-2.51-.37-3.84-.5-2.51-.99-3.57c-.37-1.06-.87-1.98-1.37-2.65h2.48c.99,1.46,1.74,2.91,2.23,4.63.5,1.59.74,3.44.74,5.43v-.13Z"/>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(761.19 449.55) scale(.7 1)"><tspan x="0" y="0">Liver function</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(761.19 477.38) scale(.7 1)"><tspan x="0" y="0">markers (AL</tspan><tspan class="cls-26" x="165.08" y="0">A</tspan><tspan class="cls-28" x="183.4" y="0">T</tspan><tspan x="197.55" y="0">,</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(761.19 508.01) scale(.7 1)"><tspan x="0" y="0">Bilirubin,</tspan><tspan class="cls-30" x="122.56" y="0"> </tspan><tspan x="129.37" y="0">Albumin)</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(46.93 246.2) scale(.7 1)"><tspan x="0" y="0">2</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(46.36 322.39) scale(.7 1)"><tspan x="0" y="0">0</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(40.71 398.7) scale(.7 1)"><tspan x="0" y="0">-2</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(46.61 93.59) scale(.7 1)"><tspan x="0" y="0">6</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(46.36 169.89) scale(.7 1)"><tspan x="0" y="0">4</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(234.48 464.25) scale(.7 1)"><tspan x="0" y="0">-1</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(107.86 460.21) scale(.7 1)"><tspan x="0" y="0">-2</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(504.49 464.25) scale(.7 1)"><tspan x="0" y="0">1</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-21" transform="translate(636.26 464.25) scale(.7 1)"><tspan x="0" y="0">2</tspan></text>
+      </g>
+      <g class="cls-23">
+        <text class="cls-22" transform="translate(24.07 328.15) rotate(-90) scale(1.26 1)"><tspan x="0" y="0">∆</tspan></text>
+        <text class="cls-22" transform="translate(24.07 311.6) rotate(-90) scale(1.26 1)"><tspan x="0" y="0"> </tspan></text>
+        <text class="cls-20" transform="translate(24.07 304.08) rotate(-90) scale(1.26 1)"><tspan x="0" y="0">P</tspan></text>
+        <text class="cls-22" transform="translate(24.07 286.04) rotate(-90) scale(1.26 1)"><tspan x="0" y="0">r</tspan></text>
+        <text class="cls-22" transform="translate(24.07 275.51) rotate(-90) scale(1.26 1)"><tspan x="0" y="0">e</tspan></text>
+        <text class="cls-22" transform="translate(24.07 260.47) rotate(-90) scale(1.26 1)"><tspan x="0" y="0">d</tspan></text>
+        <text class="cls-22" transform="translate(24.07 243.94) rotate(-90) scale(1.26 1)"><tspan x="0" y="0">i</tspan></text>
+        <text class="cls-22" transform="translate(24.07 236.42) rotate(-90) scale(1.26 1)"><tspan x="0" y="0">c</tspan></text>
+        <text class="cls-22" transform="translate(24.07 221.38) rotate(-90) scale(1.26 1)"><tspan x="0" y="0">t</tspan></text>
+        <text class="cls-22" transform="translate(24.07 212.37) rotate(-90) scale(1.26 1)"><tspan x="0" y="0">i</tspan></text>
+        <text class="cls-22" transform="translate(24.07 204.85) rotate(-90) scale(1.26 1)"><tspan x="0" y="0">o</tspan></text>
+        <text class="cls-22" transform="translate(24.07 188.32) rotate(-90) scale(1.26 1)"><tspan x="0" y="0">n</tspan></text>
+      </g>
+      <g id="xtick_1" data-name="xtick 1">
+        <g id="line2d_1" data-name="line2d 1">
+          <path class="cls-17" d="M115.31,434.63V53.92"/>
+        </g>
+      </g>
+      <g id="xtick_2" data-name="xtick 2">
+        <g id="line2d_3" data-name="line2d 3">
+          <path class="cls-17" d="M247,434.63V53.92"/>
+        </g>
+      </g>
+      <g id="xtick_3" data-name="xtick 3">
+        <g id="line2d_5" data-name="line2d 5">
+          <path class="cls-17" d="M378.69,434.63V53.92"/>
+        </g>
+      </g>
+      <g id="xtick_4" data-name="xtick 4">
+        <g id="line2d_7" data-name="line2d 7">
+          <path class="cls-17" d="M510.38,434.63V53.92"/>
+        </g>
+      </g>
+      <g id="xtick_5" data-name="xtick 5">
+        <g id="line2d_9" data-name="line2d 9">
+          <path class="cls-17" d="M642.07,434.63V53.92"/>
+        </g>
+      </g>
+      <g id="ytick_1" data-name="ytick 1">
+        <g id="line2d_11" data-name="line2d 11">
+          <path class="cls-17" d="M69.45,391.55h618.48"/>
+        </g>
+      </g>
+      <g id="ytick_2" data-name="ytick 2">
+        <g id="line2d_13" data-name="line2d 13">
+          <path class="cls-17" d="M69.45,315.13h618.48"/>
+        </g>
+      </g>
+      <g id="ytick_3" data-name="ytick 3">
+        <g id="line2d_15" data-name="line2d 15">
+          <path class="cls-17" d="M69.45,238.82h618.48"/>
+        </g>
+      </g>
+      <g id="ytick_4" data-name="ytick 4">
+        <g id="line2d_17" data-name="line2d 17">
+          <path class="cls-17" d="M69.45,162.39h618.48"/>
+        </g>
+      </g>
+      <g id="ytick_5" data-name="ytick 5">
+        <g id="line2d_19" data-name="line2d 19">
+          <path class="cls-17" d="M69.45,86.09h618.48"/>
+        </g>
+      </g>
+      <g id="line2d_21" data-name="line2d 21">
+        <path class="cls-7" d="M157.73,315.13h442.49"/>
+      </g>
+      <g id="line2d_22-2" data-name="line2d 22-2">
+        <path class="cls-5" d="M97.54,77.05h39.56l5.65.12h5.65l5.65.23h5.65c0,.12,5.65.35,5.65.35l5.65.23,5.65.23,5.65.35,5.65.47,5.65.82,5.65,1.29,5.65,2.23,5.65,3.64,5.65,3.99,5.65,6.81,5.65,53.53,5.65,51.77,5.65,36.63,5.65,16.32,5.65,14.56,5.65,16.32,5.65,19.61,5.65,28.88,5.65,21.95,5.65,16.2,5.65,11.5,5.65,8.45,5.65,6.46,5.65,5.05,5.65,1.53,5.65,1.17,5.65.94,5.65.82,5.65.7,5.65.59,5.65.59,5.65.47,5.65.47,5.65.35,5.65.35,5.65.35,5.65.23,5.65.23,5.65.23,5.65.23,5.65.23h5.65c0,.12,5.65.35,5.65.35h5.65c0,.12,5.65.23,5.65.23h5.65c0,.12,5.65.23,5.65.23h5.65l5.65.23h5.65l5.65.23h5.65l5.65.23h5.65l5.65.12h5.65l5.65.12h5.65l5.65.12h5.65l5.65.12h146.92"/>
+      </g>
+      <g id="line2d_23-2" data-name="line2d 23-2">
+        <path class="cls-13" d="M184.51,301.86l3.93-.35,3.93-.23,3.93-.23,3.93-.23,3.93-.23,3.93-.23h3.93l3.93.23,3.93.23,3.93.23,3.93.23,3.93.23,3.93.23,3.93.23,3.93.23,3.93.35,3.93.35,3.93.35h3.93c0,.12,3.93.35,3.93.35h3.93c0,.12,3.93.35,3.93.35l3.93.23,3.93.23,3.93.23,3.93.23,3.93.23,3.93.23,3.93.35,3.93.35,3.93.35,3.93.35,3.93.35,3.93.35,3.93.47,3.93.47,3.93.47,3.93.23,3.93.23h15.72l3.93.82,3.93.82,3.93.7,3.93.7,3.93.59,3.93.59,3.93.59,3.93,1.06,3.93.94,3.93.94,3.93.82,3.93.7,3.93.7,3.93.59,3.93.59,3.93.47,3.93.47,3.93.47,3.93.35,3.93.35,3.93.35,3.93.35,3.93.23,3.93.23,3.93.23,3.93.23,3.93.23,3.93.23h3.93c0,.12,3.93.23,3.93.23h102.21"/>
+      </g>
+      <g id="line2d_24-2" data-name="line2d 24-2">
+        <path class="cls-10" d="M156.18,315.13h445.19"/>
+      </g>
+      <g id="line2d_25-2" data-name="line2d 25-2">
+        <path class="cls-15" d="M137.67,318.77h149.79l4.83-.12h4.83l4.83-.12h4.83l4.83-.23h4.83c0-.12,4.83-.23,4.83-.23h4.83c0-.12,4.83-.35,4.83-.35l4.83-.23,4.83-.23,4.83-.23,4.83-.35,4.83-.35,4.83-.23h102.29l4.83-.35,4.83-.7,4.83-.7,4.83-.7,4.83-.7,4.83-.59,4.83-.59,4.83-.47,4.83-.35,4.83-.35,4.83-.35,4.83-.23,4.83-.23,4.83-.23h4.83c0-.12,4.83-.35,4.83-.35h4.83c0-.12,4.83-.23,4.83-.23h4.83l4.83-.12h4.83l4.83-.12h48.32"/>
+      </g>
+      <g id="line2d_26-2" data-name="line2d 26-2">
+        <path class="cls-14" d="M115.47,321.93h218.25l5.32-.12h5.32c0-.12,5.32-.35,5.32-.35l5.32-.59,5.32-.23,5.32-.35,5.32-2.7,5.32-8.57,5.32-2.23,5.32-.7,5.32-.23h5.32c0-.12,5.32-.23,5.32-.23h239.55"/>
+      </g>
+      <g id="line2d_27-2" data-name="line2d 27-2">
+        <path class="cls-12" d="M139.31,315.13h478.36"/>
+      </g>
+      <g id="line2d_28-2" data-name="line2d 28-2">
+        <path class="cls-2" d="M69.45,315.13h618.48"/>
+      </g>
+      <g id="patch_3-2" data-name="patch 3-2">
+        <path class="cls-9" d="M69.53,435.34V53.69"/>
+      </g>
+      <g id="patch_4-2" data-name="patch 4-2">
+        <path class="cls-9" d="M69.53,435.34h618.48"/>
+      </g>
+      <g id="line2d_14-2" data-name="line2d 14-2">
+        <path id="m98f0074ac3-7" class="cls-16" d="M69.53,315.24h-4.26"/>
+      </g>
+      <path id="m98f0074ac3-8" class="cls-16" d="M69.53,238.94h-4.26"/>
+      <g id="line2d_18-2" data-name="line2d 18-2">
+        <path id="m98f0074ac3-9" class="cls-16" d="M69.53,162.51h-4.26"/>
+      </g>
+      <g id="line2d_20-2" data-name="line2d 20-2">
+        <path id="m98f0074ac3-10" class="cls-16" d="M69.53,86.21h-4.26"/>
+      </g>
+      <path id="m98f0074ac3-11" class="cls-16" d="M69.53,391.67h-4.26"/>
+    </g>
+  </g>
+</svg>

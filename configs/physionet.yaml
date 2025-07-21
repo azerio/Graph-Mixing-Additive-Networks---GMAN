@@ -1,0 +1,53 @@
+tmp_data_dir: "tmp"
+project_root: "."
+biomarker_features: ['ALP', 'ALT', 'AST', 'Albumin', 'BUN', 'Bilirubin', 'Cholesterol', 'Creatinine', 'DiasABP', 'FiO2', 'GCS', 'Glucose', 'HCO3', 'HCT', 'HR', 'K', 'Lactate', 'MAP', 'MechVent', 'Mg', 'NIDiasABP', 'NIMAP', 'NISysABP', 'Na', 'PaCO2', 'PaO2', 'Platelets', 'RespRate', 'SaO2', 'SysABP', 'Temp', 'TroponinI', 'TroponinT', 'Urine', 'WBC', 'pH']
+static_features: ['Age', 'Gender', 'ICUType']
+time_variable: "ICULOS"
+
+dataset: "physionet"
+exp_name: "Physionet 12 -- GMAN"
+run_name: "Develop"
+logging_dir: "develop_logs"
+
+sequential_data_dir: "./merged"
+graph_data_dir: ""
+model_checkpoints_dir: 'P12_checkpoints'
+
+train_ratio: 0.8
+val_ratio: 0.10
+
+batch_size: 32
+val_batch_size: 10
+test_batch_size: 10
+epochs: 500
+
+wd: 1e-4
+dropout: 0.2
+lr: 1e-2
+end_lr: 5e-8
+bias: True
+n_layers: 2
+normalize_rho: False
+rho_per_feature: True
+hidden_channels: 32
+readout_n_layers: 1
+out_channels: 1
+is_graph_task: True
+max_num_GNANs: 36
+init_std: 0.1
+
+num_biom: 36
+num_biom_embed: 5
+feature_groups: [1, 1, 1, 1, 5]
+biomarker_groups: []
+
+weighted_loss: True
+scheduler_T0: 15
+scheduler_decay: 0.8
+end_lr: 5e-8
+
+wandb: True
+gnan_mode: 'single'
+seed: 42 
+
+return_laplacian: False

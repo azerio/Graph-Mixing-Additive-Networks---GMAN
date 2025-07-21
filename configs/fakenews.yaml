@@ -1,0 +1,40 @@
+graph_key: "propagate"
+
+dataset: "fakenews"
+exp_name: "FakeNewsTwitter"
+model_checkpoints_dir: 'FakeNewsData/checkpoints'
+
+batch_size: 32
+val_batch_size: 10
+test_batch_size: 10
+epochs: 400
+seed: 0
+
+wd: 1e-4
+dropout: 0.2
+lr: 1e-3
+n_layers: 2
+bias: True
+end_lr: 5e-8
+init_std: 0.1
+normalize_rho: False
+rho_per_feature: True
+readout_n_layers: 1
+hidden_channels: 32
+out_channels: 1
+
+is_graph_task: True
+max_num_GNANs: 2
+num_biom: 2
+num_biom_embed: 5
+feature_groups: [768, 300, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 300, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+weighted_loss: True
+scheduler_T0: 15
+scheduler_decay: 0.8
+end_lr: 5e-8
+
+biomarker_groups: [['single'], ['not_single']]
+wandb: True 
+
+return_laplacian: False
