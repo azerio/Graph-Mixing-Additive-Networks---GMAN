@@ -24,7 +24,7 @@ This repository contains the official implementation of **Graph-Mixing Additive 
 The GMAN architecture consists of:
 
 1. **Input Processing**: Biomarker data is organized into groups based on clinical relevance
-2. *Extended Graph Neural Additive Networks (EXTGNANs)**: Each group is processed by a specialized EXTGNAN that learns both node representations and graph structure
+2. **Extended Graph Neural Additive Networks (EXTGNANs)**: Each group is processed by a specialized EXTGNAN that learns both node representations and graph structure
 3. **Mixing Layer**: A DeepSet-based aggregation mechanism combines outputs from different GNANs
 4. **Prediction Head**: Final classification/regression layer
 
