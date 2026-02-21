@@ -1,31 +1,28 @@
-# Graph-Mixing Additive Networks (GMAN)
+# SuperMAN:  Interpretable And Expressive Networks Over Temporally Sparse Heterogeneous Data
 
-This repository contains the official implementation of **Graph-Mixing Additive Networks (GMAN)** from the paper:
+[![Paper](https://img.shields.io/badge/ICLR-2026-blue)]([https://your-paper-link-here](https://arxiv.org/pdf/2505.19193))
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#)
 
-**"Graph-Mixing Additive Networks for Biomarker Prediction"** ([arXiv:2505.19193](https://arxiv.org/abs/2505.19193))
+This repository contains the official implementation of **Super Mixing Additive Networks (SuperMAN)** from the ICLR 2026 paper:
+
+**"SuperMAN:  Interpretable And Expressive Networks Over Temporally Sparse Heterogeneous Data"** ([arXiv:2505.19193](https://arxiv.org/abs/2505.19193))
 
 ## Overview
 
-**Graph Mixing Additive Networks (GMAN)** is an interpretable-by-design graph learning framework for prediction tasks over sets of temporally sparse, irregular signals—such as blood test trajectories or social media cascades. GMAN represents each temporal trajectory as a directed graph and processes sets of such graphs using a flexible architecture that balances expressivity and interpretability. It extends Graph Neural Additive Networks (GNAN) by allowing both univariate and multivariate feature modeling, subset-level aggregation, and multi-scale attribution (node, graph, and group). GMAN achieves state-of-the-art performance on high-stakes medical tasks, including Crohn’s Disease diagnosis and ICU mortality prediction, while also generalizing to domains like fake news detection. Its design enables precise attribution of predictions to individual signals and time points, supporting real-world decision-making with transparent,trustworthy insights.
-
-### Key Features
-
-- **Modular Architecture**: Separate EXTGNAN for different groups
-- **Graph-based Modelling**: Leverages temporal and relational structure in sparse time-directed data  
-- **Additive Framework**: Interpretable combination of graph sets group contributions
-- **Multi-dataset Support**: Validated on PhysioNet 2012 and FakeNews datasets
+**Super Mixing Additive Networks (SuperMAN)** is an interpretable-by-design graph learning framework for prediction tasks over sets of temporally sparse, irregular signals—such as blood test trajectories or social media cascades. SuperMAN represents each temporal trajectory as a directed graph and processes sets of such graphs using a flexible architecture that balances expressivity and interpretability. It extends Graph Neural Additive Networks (GNAN) by allowing both univariate and multivariate feature modeling, subset-level aggregation, and multi-scale attribution (node, graph, and group). SuperMAN achieves state-of-the-art performance on high-stakes medical tasks, including Crohn’s Disease diagnosis and ICU mortality prediction, while also generalizing to domains like fake news detection. Its design enables precise attribution of predictions to individual signals and time points, supporting real-world decision-making with transparent, trustworthy insights.
 
 ### Architecture
 
 <div align="center">
-<img src="img/arch.png" alt="GMAN Architecture" width="800"/>
+<img src="img/arch.png" alt="SuperMAN Architecture" width="800"/>
 </div>
 
-The GMAN architecture consists of:
+The SuperMAN architecture consists of:
 
-1. **Input Processing**: Biomarker data is organized into groups based on clinical relevance
-2. **Extended Graph Neural Additive Networks (EXTGNANs)**: Each group is processed by a specialized EXTGNAN that learns both node representations and graph structure
-3. **Mixing Layer**: A DeepSet-based aggregation mechanism combines outputs from different GNANs
+1. **Input Processing**: Heterogenuous temporal sparse data is organized into groups based on priors
+2. **Extended Graph Neural Additive Networks (EXTGNANs)**: Each group is processed by a separate ExtGNAN that learn node and graph representations
+3. **Mixing Layer**: A DeepSet-based aggregation mechanism combines outputs from different ExtGNANs
 4. **Prediction Head**: Final classification/regression layer
 
 
@@ -107,7 +104,7 @@ This will generate:
 │   ├── loaders/              # Dataset classes
 │   └── collate_fns/          # Batch collation functions
 ├── model/                     # Model implementations
-│   ├── GMAN.py               # Main GMAN model
+│   ├── GMAN.py               # Main SuperMAN model
 │   ├── GMANFakeNews.py       # FakeNews-specific variant
 │   ├── utils.py              # Model utilities
 │   └── GMAN_trainer.py       # Training utilities
