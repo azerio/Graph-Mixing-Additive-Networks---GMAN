@@ -1,12 +1,16 @@
+<div align="center">
+<img src="SuperMAN.png" alt="SuperMAN logo" width="300"/>
+</div>
+
+
 # SuperMAN:  Interpretable And Expressive Networks Over Temporally Sparse Heterogeneous Data
 
 [![Paper](https://img.shields.io/badge/ICLR-2026-blue)]([https://your-paper-link-here](https://arxiv.org/pdf/2505.19193))
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#)
 
-This repository contains the official implementation of **Super Mixing Additive Networks (SuperMAN)** from the ICLR 2026 paper:
-
-**"SuperMAN:  Interpretable And Expressive Networks Over Temporally Sparse Heterogeneous Data"** ([arXiv:2505.19193](https://arxiv.org/abs/2505.19193))
+This repository contains the official implementation of **Super Mixing Additive Networks (SuperMAN)** (ICLR 2026).  
+📄 Paper: [arXiv:2505.19193](https://arxiv.org/abs/2505.19193)
 
 ## Overview
 
@@ -132,11 +136,13 @@ The FakeNews dataset is used for fake news detection. Place your processed data 
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{zerio2025interpretable,
-  title={Interpretable Graph Learning Over Sets of Temporally-Sparse Data},
-  author={Zerio, Andrea and Bechler-Speicher, Maya and Huri, Maor and Vestergaard, Marie Vibeke and Gilad-Bachrach, Ran and Jess, Tine and Bhatt, Samir and Sazonovs, Aleksejs},
-  journal={arXiv preprint arXiv:2505.19193},
-  year={2025}
+@inproceedings{
+zerio2026graph,
+title={Graph Mixing Additive Networks},
+author={Andrea Zerio and Maya Bechler-Speicher and Maor Huri and Marie Vibeke Vestergaard and Tine Jess and Ran Gilad-Bachrach and Samir Bhatt and Aleksejs Sazonovs},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=1MVeSLvfxU}
 }
 ```
 
